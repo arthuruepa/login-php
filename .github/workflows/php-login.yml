@@ -56,7 +56,7 @@ jobs:  # Aqui definimos os "trabalhos" que serão feitos
 
         echo "Simulando testes..."  # Apenas uma mensagem no log 
 
-        php -l index.php  # Comando PHP para verificar se o arquivo index.php não tem erros de sintaxe 
+        php -l login-php.php  # Comando PHP para verificar se o arquivo index.php não tem erros de sintaxe 
 
  
 
